@@ -1,0 +1,1 @@
+patient_id,site_id,event,anatomy,reviewed,pre_pet,post_pet,pre_ct,post_ct,pre_mask,post_mask,quantitative_reliable,pre_suvmax,post_suvmax,pre_mtv_ml,post_mtv_ml,pre_tlg,post_tlg

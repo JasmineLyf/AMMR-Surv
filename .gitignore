@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+runs/
+*.npz
+*.nii
+*.nii.gz
+*.pt
+*.dcm
+.DS_Store
+patients.csv
+sites.csv
